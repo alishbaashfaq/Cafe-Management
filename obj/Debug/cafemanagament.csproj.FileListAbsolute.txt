@@ -1,0 +1,15 @@
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\bin\Debug\cafemanagament.exe.config
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\bin\Debug\cafemanagament.exe
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\bin\Debug\cafemanagament.pdb
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.csproj.AssemblyReference.cache
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.Form1.resources
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.Properties.Resources.resources
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.csproj.GenerateResource.cache
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.csproj.CoreCompileInputs.cache
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.exe
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.pdb
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.DashBoard.resources
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.allusercontrol.us_welcome.resources
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemanagament.allusercontrol.uc_additems.resources
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\bin\Debug\Guna.UI2.dll
+C:\Users\Bitsclan\source\repos\cafemanagament\cafemanagament\obj\Debug\cafemana.AF1F4CCD.Up2Date
